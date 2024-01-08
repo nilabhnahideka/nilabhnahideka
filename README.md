@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nilabh deka I am currently pursuing my Master's In Applied Computer Science at SRH Hochschule Heidelberg
+- 👋 Hi, I’m Nilabh deka, Master's In Applied Computer Science at SRH Hochschule Heidelberg
 - 👀 I’m interested in Machine Learning, Web Development and Frontend
 - 🌱 I’m currently learning React, Angular, TypeScript & JavaScript
 - 💞️ I’m looking to collaborate on any project with react, angular & TypeScript.
